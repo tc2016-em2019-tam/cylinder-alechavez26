@@ -14,7 +14,7 @@ public class Circle {
         this.color = "red";
     }
 
-    public Circle(double radius, String color) {
+    public Circle (double radius, String color) {
         this.radius = radius;
         this.color = color;
     }

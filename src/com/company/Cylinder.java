@@ -18,11 +18,6 @@ public class Cylinder extends Circle {
         this.height = height;
     }
 
-    public Cylinder(double radius, double height, String color) {
-        super(radius, color);
-        this.height = height;
-    }
-
     public double getHeight() {
         return this.height;
     }
